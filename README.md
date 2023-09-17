@@ -1,3 +1,3 @@
-Hi, I’m @ominami2006
+Hi, I’m @ominami2006.
 I’m currently learning JavaScript and Python.
-email: ominami@vk.com
+My email: ominami@vk.com
