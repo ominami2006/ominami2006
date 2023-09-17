@@ -1,3 +1,3 @@
 Hi, I’m @ominami2006
 I’m currently learning JavaScript and Python.
-email: minami@vk.com
+email: ominami@vk.com
